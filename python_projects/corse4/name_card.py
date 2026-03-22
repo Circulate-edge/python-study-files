@@ -1,0 +1,5 @@
+name = input("请输入姓名：")
+job = input("输入职位：")
+phone = input("输入电话：")
+email = input("输入电子邮箱")
+print(f"姓名：{name}", f"职位：{job}", f"电话：{phone}", f"邮箱：{email}",sep="\n")

@@ -1,0 +1,8 @@
+name = input('请输入姓名：')
+day = input('请输入日期：')
+tree = input('树苗名称：')
+number = input('树苗编号：')
+zone = input('地区：')
+print('谢谢你',name)
+print('你于',day,'种植的',tree,'，已被中国扶贫基金会认领，将种植到',zone,'地区。')
+print('   树苗编号   ',number,sep='\n')
